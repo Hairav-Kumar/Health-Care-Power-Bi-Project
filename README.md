@@ -1,4 +1,4 @@
-# Health-Care-Power-Bi-Project
+# Health-Care(Hospital) -Power-Bi-Project
 
 Project Requirement:
 1. Patient info according to Patient_ID
